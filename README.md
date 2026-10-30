@@ -9,7 +9,7 @@
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-C5B3E8?style=for-the-badge&logo=vercel&logoColor=white)](https://mahnoor-s-code-canvas.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-D5C6EF?style=for-the-badge&logo=linkedin&logoColor=333)](https://www.linkedin.com/in/mahnoor-naeem-baig/)
-[![HackerRank](https://img.shields.io/badge/HackerRank-E8DDF5?style=for-the-badge&logo=hackerrank&logoColor=333)](https://www.hackerrank.com/profile/mahnoornaembaig)
+[![HackerRank](https://img.shields.io/badge/HackerRank-E8DDF5?style=for-the-badge&logo=hackerrank&logoColor=333)](https://www.hackerrank.com/profile/mahnoornaeembaig)
 
 </div>
 
@@ -123,7 +123,7 @@ A C++ academic project exploring OOP concepts, application development, and Qt G
 
 ### Let's Connect & Build Something!
 
-[LinkedIn](https://www.linkedin.com/in/mahnoor-naeem-baig/) · [Portfolio](https://mahnoor-s-code-canvas.vercel.app/) · [HackerRank](https://www.hackerrank.com/profile/mahnoornaembaig)
+[LinkedIn](https://www.linkedin.com/in/mahnoor-naeem-baig/) · [Portfolio](https://mahnoor-s-code-canvas.vercel.app/) · [HackerRank](https://www.hackerrank.com/profile/mahnoornaeembaig)
 
 *One idea, one project, one commit at a time.* ✦
 
