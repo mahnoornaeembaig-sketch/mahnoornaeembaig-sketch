@@ -9,7 +9,7 @@
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-C5B3E8?style=for-the-badge&logo=vercel&logoColor=white)](https://mahnoor-s-code-canvas.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-D5C6EF?style=for-the-badge&logo=linkedin&logoColor=333)](https://www.linkedin.com/in/mahnoor-naeem-baig/)
-[![HackerRank](https://img.shields.io/badge/HackerRank-E8DDF5?style=for-the-badge&logo=hackerrank&logoColor=333)]([https://www.hackerrank.com/profile/mahnoornaembaig](https://www.hackerrank.com/profile/mahnoornaeembaig))
+[![HackerRank](https://img.shields.io/badge/HackerRank-E8DDF5?style=for-the-badge&logo=hackerrank&logoColor=333)](https://www.hackerrank.com/profile/mahnoornaembaig)
 
 </div>
 
@@ -83,7 +83,7 @@ A deployed website project for an artisan cheesecake business.
 
 A C++ academic project exploring OOP concepts, application development, and Qt GUI.
 
-[View Repository](https://github.com/mahnoornaeembaig-sketch?tab=repositories)
+[View Repositories](https://github.com/mahnoornaeembaig-sketch?tab=repositories)
 
 </td>
 </tr>
@@ -106,7 +106,7 @@ A C++ academic project exploring OOP concepts, application development, and Qt G
 
 ### 📜 Certifications
 
-- **Google AI Professional Certificate** — Completed seven courses with 20+ practical AI artifacts.
+- **Google AI Professional Certificate** — Seven courses completed, with 20+ practical AI artifacts.
 
 ---
 
